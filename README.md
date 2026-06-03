@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://safionweb.github.io/">
-    <img src="https://img.shields.io/badge/Website-safionweb.github.io-24292e?style=flat&logo=github&logoColor=white" />
+  <a href="https://safionweb.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-safionweb.vercel.app-24292e?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -134,4 +134,4 @@ I'm always happy to talk Android, mobile architecture, or potential collaboratio
 
 - **Email:** [safionweb@gmail.com](mailto:safionweb@gmail.com)
 - **LinkedIn:** [linkedin.com/in/safionweb](https://www.linkedin.com/in/safionweb/)
-- **Website:** [safionweb.github.io](https://safionweb.github.io/)
+- **Website:** [safionweb.vercel.app](https://safionweb.vercel.app/)
